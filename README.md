@@ -1,7 +1,9 @@
+Data Visualization Project - R & ggplot2
+
 Project Overview
 
 This project demonstrates core data visualization techniques in R, using both built in datasets and the ggplot2 package. The work focuses on exploring the midwest dataset and producing a variety of visualizations—bar charts, stacked bar charts, scatterplots, line charts, and histograms. The goal is to build familiarity with R’s data inspection tools and ggplot2’s grammar of graphics while developing a reproducible workflow for statistical graphics.
-The project begins by listing available datasets in base R and in ggplot2 , then moves into structured exploration of the midwest dataset using functions such as head(), tail(), str(), names(), glimpse(), and class(). After understanding the dataset’s structure, multiple visualizations are created to highlight demographic and geographic patterns across counties.
+The project begins by listing available datasets in base R and in ggplot2 , then moves into structured exploration of the midwest dataset using functions such as head(), tail(), str(), names(), glimpse(), and class(). After understanding the dataset’s structure, multiple visualizations are created to highlight demographic and geographic patterns across counties (Knaflic, C. N. 2015).
 
 Tools & Libraries Used
 
@@ -67,4 +69,13 @@ Skills Demonstrated
 •	Construction of bar charts, stacked charts, scatterplots, line charts, and histograms
 
 •	Use of themes, labels, and coordinate transformations
+
 •	Reproducible R scripting and visualization workflow
+
+
+
+
+References
+
+Knaflic, C. N. (2015). Storytelling with data: A data visualization guide for business professionals (1st ed.). John Wiley & Sons, Inc.
+
